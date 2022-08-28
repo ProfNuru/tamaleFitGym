@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A generic Gym web application with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the base app for the TamaleFit Gym web app
 
 ## Available Scripts
 
